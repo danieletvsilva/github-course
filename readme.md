@@ -1,10 +1,4 @@
-Github
-
-teste de modo de edição
+GIT e Github
 
 
-
-
-
-Teste 2
-Teste 3 para comitar
+Curso destinado ao aprendizado de GIT e Github.
